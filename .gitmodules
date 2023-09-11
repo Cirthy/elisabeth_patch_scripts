@@ -1,0 +1,3 @@
+[submodule "DahuHunting"]
+	path = DahuHunting
+	url = git@github.com:88abaa99/DahuHunting.git
